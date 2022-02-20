@@ -2,7 +2,6 @@
 - 👀 I’m interested in web scraping using python language
 - 🌱 I’m currently learning scrapy
 - 💞️ I’m looking to collaborate on projects that use web scraping
-- 📫 How to reach me? twitter at #mohamuza
 
 <!---
 amuza2/amuza2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
