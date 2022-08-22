@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed
+- 👋 Hi, I’m Med
 - 👀 I’m interested in web scraping & automation using python language
 - 🌱 I’m currently building gui tools using PySimpleGUI
 - 💞️ I’m looking to collaborate on projects that uses this framework
