@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Med
-- 👀 I’m interested in web scraping & automation using python language
-- 🌱 I’m currently building gui tools using PySimpleGUI
-- 💞️ I’m looking to collaborate on projects that uses this framework
+- 👀 I’m interested in python and c#
+- 🌱 I’m currently developing my programming skills on codewars
 - ✔👌 Open-source is our way of developers to share knowledge and power to everyone, everywhere at everytime.
 <!---
 amuza2/amuza2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
