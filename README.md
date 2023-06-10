@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/pbB6PiD.png" width="100%" height="auto"/>
+
 <h1 align="center">Hi 👋, I'm Mohammed Chami</h1>
 <h3 align="center">A passionate Developer</h3>
 
