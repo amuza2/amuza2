@@ -30,8 +30,8 @@
 
 <h3 align="center">⚡ Stats:</h3>
 <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amuza2&theme=radical" alt="amuza2" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amuza2&show_icons=true&locale=en&layout=compact&theme=radical" alt="amuza2" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amuza2&show_icons=true&theme=radical&locale=en" alt="amuza2" />
-<br><br>
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amuza2&show_icons=true&locale=en&layout=compact&theme=radical" alt="amuza2" />
+<h5 align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=amuza2&show_icons=true&theme=radical&locale=en" alt="amuza2" /></h5>
+
 <h3 align="center">✌️ Support:</h3>
 <p align="center"><a href="https://ko-fi.com/codingisamazing"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codingisamazing" /></a></p>
