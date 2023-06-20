@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/cMWdwMe.png" width="100%" height="auto"/>
+<img src="https://i.imgur.com/xz9kKU9.png" width="100%" height="auto"/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Chami</h1>
 <h3 align="center">A passionate Developer</h3>
