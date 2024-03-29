@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently developing on **developing my programming problem solving skills on Codewars.**
 
-- 🌱 I’m currently working on ****Business & Accounting related applications using WinForms**.**
+- 🌱 I’m currently working on ****Business & Accounting related applications using .NET MAUI**.**
 
 - 👯 **Open-source is our way of developers to share knowledge and power to everyone, everywhere at everytime.**
 
