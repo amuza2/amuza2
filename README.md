@@ -7,7 +7,7 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/mohamuza" target="blank"><img src="https://img.shields.io/twitter/follow/mohamuza?logo=twitter&style=for-the-badge" alt="mohamuza" /></a> </p> -->
 
-- 🔭 I’m currently learing to **Develop websites using ASP.NET MVC and related technoloyes that comes in the way like LINQ, Entity Framework**
+- 🔭 I’m currently learing to **Develop websites using ASP.NET MVC and related technologies that comes in the way like LINQ, Entity Framework, concurrency**
 
 <!-- - 🌱 I’m currently working on ****Developing an website**.** -->
 
