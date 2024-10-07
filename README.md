@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-<h1>Active</h1>
-=======
 <img src="https://i.imgur.com/xz9kKU9.png" width="100%" height="auto"/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Chami</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">I love software development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amuza2&label=Profile%20views&color=0e75b6&style=flat" alt="amuza2" /> </p>
 
-<p align="center"> <a href="https://twitter.com/mohamuza" target="blank"><img src="https://img.shields.io/twitter/follow/mohamuza?logo=twitter&style=for-the-badge" alt="mohamuza" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/mohamuza" target="blank"><img src="https://img.shields.io/twitter/follow/mohamuza?logo=twitter&style=for-the-badge" alt="mohamuza" /></a> </p> -->
 
-- 🔭 I’m currently developing on **developing my programming problem solving skills on Codewars.**
+- 🔭 I’m currently learing to **Develop websites using ASP.NET MVC and related technoloyes that comes in the way like LINQ, Entity Framework**
 
-- 🌱 I’m currently working on ****Business & Accounting related applications using .NET MAUI**.**
+<!-- - 🌱 I’m currently working on ****Developing an website**.** -->
 
 - 👯 **Open-source is our way of developers to share knowledge and power to everyone, everywhere at everytime.**
 
@@ -22,7 +19,7 @@
 <p align="center">
 <a href="https://dev.to/chami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammed chami" height="30" width="40" /></a>
 <a href="https://twitter.com/mohamuza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamuza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-chami-b588b5a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed chami" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/mohammed-chami-b588b5a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed chami" height="30" width="40" /></a> -->
 <a href="https://stackoverflow.com/users/8773930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8773930" height="30" width="40" /></a>
 <a href="https://instagram.com/coding_is_amazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_is_amazing" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codingisamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingisamazing" height="30" width="40" /></a>
@@ -37,4 +34,3 @@
 
 <!-- <h3 align="center">✌️ Support:</h3>
 <p align="center"><a href="https://ko-fi.com/codingisamazing"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codingisamazing" /></a></p> -->
->>>>>>> parent of 2f2bb0e (Update README.md)
