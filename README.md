@@ -1,17 +1,17 @@
 <img src="https://i.imgur.com/xz9kKU9.png" width="100%" height="auto"/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Chami</h1>
-<h3 align="center">I love software development</h3>
+<h3 align="center">I love building things</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amuza2&label=Profile%20views&color=0e75b6&style=flat" alt="amuza2" /> </p>
 
 <!-- <p align="center"> <a href="https://twitter.com/mohamuza" target="blank"><img src="https://img.shields.io/twitter/follow/mohamuza?logo=twitter&style=for-the-badge" alt="mohamuza" /></a> </p> -->
 
-- 🔭 I’m currently learing to **Develop websites an E-commerce websites using ASP.NET Core MVC**
+- 🔭 I’m currently Learning how **To build maintainable and extensible object-oriented software**
 
-<!-- - 🌱 I’m currently working on ****Developing an website**.** -->
+- 🌱 I’m currently working on ****Developing a desktop employee management software**.**
 
-- 👯 **Open-source is our way of developers to share knowledge and power to everyone, everywhere at everytime.**
+- 👯 **Open-source is our way for developers to share knowledge and power with everyone, everywhere at every time.**
 
 - 📫 How to reach me **mohamuza@gmail.com**
 
