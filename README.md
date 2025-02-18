@@ -23,6 +23,7 @@
 <a href="https://stackoverflow.com/users/8773930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8773930" height="30" width="40" /></a>
 <a href="https://instagram.com/coding_is_amazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_is_amazing" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codingisamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingisamazing" height="30" width="40" /></a>
+<a href="https://www.pinterest.com/coding_is_amazing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="@codingisamazing" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
