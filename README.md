@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Learning how **To build maintainable and extensible object-oriented software**
 
-- 🌱 I’m currently working on ****Developing a desktop employee management software**.**
+- 🌱 I’m currently working on ****Creating Content related to Avalonia UI and Linux**.**
 
 - 👯 **Open-source is our way for developers to share knowledge and power with everyone, everywhere at every time.**
 
