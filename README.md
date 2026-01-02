@@ -6,33 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amuza2&label=Profile%20views&color=0e75b6&style=flat" alt="amuza2" />
+  <img width="120" height="20" alt="image" src="https://github.com/user-attachments/assets/3ad84300-9ac8-4857-a947-9a7751e9ad36" />
+
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🚀 I specialize in **Avalonia UI development**, creating cross-platform desktop applications that run seamlessly on Linux, Windows, and macOS
-
-- 🐧 **Passionate about Linux accessibility** — I build beginner-friendly GUI tools that help newcomers transition to Linux without the command-line learning curve
-
-- 📚 I create **educational content and tutorials** on Avalonia UI, sharing best practices and helping developers build modern, native-looking applications
-
-- 💡 Strong believer in **open-source philosophy** — knowledge should be freely shared and accessible to developers worldwide
-
-- 🎯 My mission: Bridge the gap between powerful Linux systems and user-friendly interfaces through well-designed desktop applications
-
-- 📫 Contact me: **mohamuza@gmail.com**
-
----
-
-### 🔧 What I Build
-
-I focus on creating **practical Linux tools** that solve real problems for new users:
-- System configuration utilities with intuitive interfaces
-- Package management frontends for beginners
-- User-friendly alternatives to complex CLI tools
-- Cross-platform applications leveraging Avalonia's MVVM architecture
 
 ---
 
@@ -81,7 +57,7 @@ I focus on creating **practical Linux tools** that solve real problems for new u
 </p>
 
 ---
-
+<!--
 <h3 align="center">💖 Support My Work</h3>
 <p align="center">
   <a href="https://ko-fi.com/codingisamazing"> 
@@ -89,3 +65,4 @@ I focus on creating **practical Linux tools** that solve real problems for new u
   </a>
 </p>
 <p align="center"><i>Your support helps me create more open-source tools and educational content!</i></p>
+-->
